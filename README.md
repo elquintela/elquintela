@@ -3,6 +3,7 @@
 
 - I live in :brazil:, but i lived 6 months in :argentina:
 - I have been working on OG1 Systems as a developer backend :computer:
+- I have been learning more about Node.Js :green_circle: and Typescript :large_blue_circle:
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
