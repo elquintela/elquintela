@@ -2,6 +2,7 @@
 ## I'm Jaelson Quintela :rose:
 
 - I live in :brazil:, but i lived 6 months in :argentina:
+- I have been working on OG1 Systems as a developer backend :computer:
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
