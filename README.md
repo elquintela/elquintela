@@ -4,7 +4,11 @@
 - I live in :brazil:, but i lived 6 months in :argentina:
 - I have been working on OG1 Systems as a developer backend :computer:
 - I have been learning more about Node.Js :green_circle: and Typescript :large_blue_circle:
-<!--
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/jaelsonquintela/" target="_blank">
+<img align="center" alt="jaelson-linkedin" height="39" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max=width:100%;">
+ <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
