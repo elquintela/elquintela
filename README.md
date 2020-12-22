@@ -10,7 +10,7 @@
 <img align="center" alt="jaelson-linkedin" height="49" width="50" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style="max=width:100%;">
 <a href="https://www.instagram.com/elquintela_/" target="_blank">
 <img align="center" alt="jaelson-instagram" height="49" width="50" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" style="max=width:100%;">
-<a href="https://www.instagram.com/elquintela_/" target="_blank">
+<a href="https://drive.google.com/file/d/1Vv8yqHMqfzkY13DmPIzwMSuIJua4zKkJ/view?usp=sharing" target="_blank">
 <img align="center" alt="jaelson-curriculo" height="49" width="50" src="https://devicon.dev/devicon.git/icons/google/google-original.svg" style="max=width:100%;">
   
 ## My Skills:
