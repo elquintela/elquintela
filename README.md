@@ -12,6 +12,7 @@
 <img align="center" alt="jaelson-instagram" height="49" width="50" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" style="max=width:100%;">
 <a href="https://www.instagram.com/elquintela_/" target="_blank">
 <img align="center" alt="jaelson-curriculo" height="49" width="50" src="https://devicon.dev/devicon.git/icons/google/google-original.svg" style="max=width:100%;">
+  
 ## My Skills:
 <img align="center" alt="jaelson-javascript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-nodejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
