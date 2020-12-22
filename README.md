@@ -14,16 +14,16 @@
 <img align="center" alt="jaelson-curriculo" height="29" width="30" src="https://devicon.dev/devicon.git/icons/google/google-original.svg" style="max=width:100%;">
   
 ## My Skills:
-<img align="center" alt="jaelson-javascript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-nodejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-vuejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-postgresql" height="49" width="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-typescript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-html" height="49" width="50" src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-css" height="49" width="50" src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-bootstrap" height="49" width="50" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-java" height="49" width="50" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-linux" height="49" width="50" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-javascript" height="29" width="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-nodejs" height="29" width="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-vuejs" height="29" width="30" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-postgresql" height="29" width="30" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-typescript" height="29" width="30" src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-html" height="29" width="30" src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-css" height="29" width="30" src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-bootstrap" height="29" width="30" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-java" height="29" width="30" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-linux" height="29" width="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" style="max=width:100%;">
 
 ## My GitHub Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
