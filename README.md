@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Jaelson Quintela
+### I'm Jaelson Quintela :rose:
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
