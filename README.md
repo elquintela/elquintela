@@ -26,10 +26,10 @@
 
 ## My GitHub Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=prussian&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=algolia&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&layout=compact&count_private=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&layout=compact&count_private=true&theme=algolia" />
 </a>
  
 <!--
