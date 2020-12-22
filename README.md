@@ -17,6 +17,10 @@
 <img align="center" alt="jaelson-vuejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-postgresql" height="49" width="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-typescript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-html" height="49" width="50" src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-css" height="49" width="50" src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-bootstrap" height="49" width="50" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-java" height="49" width="50" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" style="max=width:100%;">
  
  
 <!--
