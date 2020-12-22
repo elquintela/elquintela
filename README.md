@@ -12,7 +12,7 @@
 <img align="center" alt="jaelson-instagram" height="79" width="80" src="https://logospng.org/download/instagram/logo-instagram-256.png" style="max=width:100%;">
  
 ## My Skills:
-<img align="center" alt="jaelson-javascript" height="79" width="80" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-javascript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-nodejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-vuejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-postgresql" height="49" width="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
