@@ -27,10 +27,10 @@
 
 ## My GitHub Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=algolia&count_private=true" style="max=width:100%" height="250" width="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=algolia&count_private=true" style="max=width:100%"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&layout=compact&count_private=true&theme=algolia" style="max=width:100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&layout=compact&count_private=true&theme=algolia" style="max=width:100%, height:100%" />
 </a>
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
