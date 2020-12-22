@@ -7,7 +7,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jaelsonquintela/" target="_blank">
-<img align="center" alt="jaelson-linkedin" height="39" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-linkedin" height="59" width="60" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max=width:100%;">
  <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
