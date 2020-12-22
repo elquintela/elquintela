@@ -23,6 +23,7 @@
 <img align="center" alt="jaelson-css" height="49" width="50" src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-bootstrap" height="49" width="50" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-java" height="49" width="50" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-linux" height="49" width="50" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" style="max=width:100%;">
 
 ## My GitHub Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
