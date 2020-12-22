@@ -29,7 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=algolia&count_private=true" height="300" width="400" style="max=width:100%"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&layout=compact&count_private=true&theme=algolia" height="300" width="400" style="max=width:100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&layout=compact&count_private=true&theme=algolia" height="400" width="400" style="max=width:100%" />
 </a>
  
 <!--
