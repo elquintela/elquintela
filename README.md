@@ -21,7 +21,9 @@
 <img align="center" alt="jaelson-css" height="49" width="50" src="https://devicon.dev/devicon.git/icons/css3/css3-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-bootstrap" height="49" width="50" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-java" height="49" width="50" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" style="max=width:100%;">
- 
+
+## My GitHub Stats: 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=default)
  
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
