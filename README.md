@@ -13,10 +13,10 @@
  
 ## My Skills:
 <img align="center" alt="jaelson-javascript" height="79" width="80" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-nodejs" height="79" width="80" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-vuejs" height="79" width="80" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-postgresql" height="79" width="80" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-typescript" height="79" width="80" src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-nodejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-vuejs" height="49" width="50" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-postgresql" height="49" width="50" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-typescript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" style="max=width:100%;">
  
  
 <!--
