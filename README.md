@@ -7,9 +7,9 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jaelsonquintela/" target="_blank">
-<img align="center" alt="jaelson-linkedin" height="59" width="60" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-linkedin" height="49" width="50" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style="max=width:100%;">
 <a href="https://www.instagram.com/elquintela_/" target="_blank">
-<img align="center" alt="jaelson-instagram" height="79" width="80" src="https://logospng.org/download/instagram/logo-instagram-256.png" style="max=width:100%;">
+<img align="center" alt="jaelson-instagram" height="49" width="50" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" style="max=width:100%;">
  
 ## My Skills:
 <img align="center" alt="jaelson-javascript" height="49" width="50" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
