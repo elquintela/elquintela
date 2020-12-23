@@ -27,7 +27,7 @@
 
 ## My Book:
 <a href="https://play.google.com/store/books/details/Obras_Educacionais?id=8jekDwAAQBAJ&hl=en_US" target="_blank">
-<img align="center" alt="jaelson-livro" height="39" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1903/1903162.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-livro" height="45" width="46" src="https://www.flaticon.com/svg/static/icons/svg/1903/1903162.svg" style="max=width:100%;">
   
 ## My GitHub Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
