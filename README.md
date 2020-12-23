@@ -13,7 +13,7 @@
 <a href="https://drive.google.com/file/d/1Vv8yqHMqfzkY13DmPIzwMSuIJua4zKkJ/view?usp=sharing" target="_blank">
 <img align="center" alt="jaelson-curriculo" height="29" width="30" src="https://devicon.dev/devicon.git/icons/google/google-original.svg" style="max=width:100%;">
   
-## My Skills:
+## My skills:
 <img align="center" alt="jaelson-javascript" height="29" width="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-nodejs" height="29" width="30" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-vuejs" height="29" width="30" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
@@ -25,13 +25,17 @@
 <img align="center" alt="jaelson-java" height="29" width="30" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-linux" height="29" width="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" style="max=width:100%;">
 
-## My GitHub Stats: 
+## My GitHub stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=algolia&count_private=true" style="max=width:100%"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&count_private=true&theme=algolia" style="max=width:100%, height:100%" />
 </a>
+
+## My book:
+<a href="https://play.google.com/store/books/details/Obras_Educacionais?id=8jekDwAAQBAJ&hl=en_US" target="_blank">
+<img align="center" alt="jaelson-livro" height="29" width="30" src="https://www.flaticon.com/svg/static/icons/svg/1903/1903162.svg" style="max=width:100%;">
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yhttps://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazraour GitHub profile.
 
