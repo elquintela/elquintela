@@ -38,7 +38,7 @@
 </a>
 
 ##
-<img align="center" src="https://drive.google.com/file/d/1nQqZtvCGQ4YQikXx5qrNLYqoAz4M2dxX/view?usp=sharing" style="max=width:100%, height:100%" />
+<img align="center" src="https://lh5.googleusercontent.com/g0veseuPCug1hlf9NpH9d3H7FDkGBAJjADOrE-llu_X0V0FyfdBGLiHwBBxp88tPpJq1NO6BVOCDnB8omQ5m=w1366-h606" style="max=width:100%, height:100%" />
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yhttps://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazraour GitHub profile.
 
