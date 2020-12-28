@@ -38,11 +38,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&count_private=true&theme=algolia" style="max=width:100%, height:100%" />
 </a>
 </div>
-
-##
-<div align="center">
-<img align="center" src="https://lh5.googleusercontent.com/g0veseuPCug1hlf9NpH9d3H7FDkGBAJjADOrE-llu_X0V0FyfdBGLiHwBBxp88tPpJq1NO6BVOCDnB8omQ5m=w1366-h606" height="300" width="400" style="max=width:100%, height:100%" />
-</div>
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yhttps://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazraour GitHub profile.
 
