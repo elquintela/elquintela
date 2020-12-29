@@ -34,9 +34,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elquintela&show_icons=true&theme=algolia" style="max=width:100%"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elquintela&count_private=true&theme=algolia" style="max=width:100%, height:100%" />
-</a>
+
 </div>
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yhttps://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazraour GitHub profile.
