@@ -41,8 +41,6 @@
 <!--
 **elquintela/elquintela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yhttps://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazraour GitHub profile.
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
