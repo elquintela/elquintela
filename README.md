@@ -15,7 +15,7 @@
   
 ## My Skills:
 <img align="center" alt="jaelson-javascript" height="39" width="40" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" style="max=width:100%;">
-<img align="center" alt="jaelson-nodejs" height="39" width="40" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-plain.svg" style="max=width:100%;">
+<img align="center" alt="jaelson-nodejs" height="39" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-vuejs" height="39" width="40" src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-postgresql" height="39" width="40" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" style="max=width:100%;">
 <img align="center" alt="jaelson-typescript" height="39" width="40" src="https://devicon.dev/devicon.git/icons/typescript/typescript-plain.svg" style="max=width:100%;">
