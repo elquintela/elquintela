@@ -2,7 +2,7 @@
 ## I'm Jaelson Quintela :rose:
 
 - I live in :brazil:, but i lived 6 months in :argentina:
-- I have been working on Accenture Brasil as a developer back-end :computer:
+- I have been working on Accenture Brasil as a developer fullstack :computer:
 - I have been learning more about NodeJs :green_circle: && Typescript :large_blue_circle: && Angular :red_circle:
 
 ## Connect With Me:
