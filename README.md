@@ -2,8 +2,8 @@
 ## I'm Jaelson Quintela :rose:
 
 - I live in :brazil:, but i lived 6 months in :argentina:
-- I have been working on OG1 Systems as a developer back-end :computer:
-- I have been learning more about NodeJs :green_circle: and Typescript :large_blue_circle:
+- I have been working on Accenture Brasil as a developer back-end :computer:
+- I have been learning more about NodeJs :green_circle: && Typescript :large_blue_circle: && Angular :red_circle:
 
 ## Connect With Me:
 <a href="https://www.linkedin.com/in/jaelsonquintela/" target="_blank">
